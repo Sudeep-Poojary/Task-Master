@@ -1,6 +1,6 @@
 # ToDo_List-Version2
 
-## ToDo List with Database Connectivity using MongoDB
+ToDo List with Database Connectivity using MongoDB
 
 ---
 
@@ -38,3 +38,16 @@ Express is a fast, assertive, essential and moderate web framework of Node.js. Y
 ># **`What is Embedded JavaScript?`**
 
 EJS or Embedded Javascript Templating is a templating engine used by Node.js. Template engine helps to create an HTML template with minimal code. Also, it can inject data into HTML template at the client side and produce the final HTML. EJS is a simple templating language which is used to generate HTML markup with plain JavaScript. It also helps to embed JavaScript to HTML pages.
+
+---
+
+># **`What is MongoDB?`**
+
+MongoDB is an open-source document database that provides high performance, high availability, and automatic scaling. In simple words, you can say that - Mongo DB is a document-oriented database. It is an open source product, developed and supported by a company named 10gen. MongoDB is available under General Public license for free, and it is also available under Commercial license from the manufacturer.
+
+The manufacturing company 10gen has defined MongoDB as:
+
+"MongoDB is a scalable, open source, high performance, document-oriented database." - 10gen
+
+MongoDB was designed to work with commodity servers. Now it is used by the company of all sizes, across all industry.
+
