@@ -51,3 +51,9 @@ The manufacturing company 10gen has defined MongoDB as:
 
 MongoDB was designed to work with commodity servers. Now it is used by the company of all sizes, across all industry.
 
+
+---
+
+># **`What is Mongoose?`**
+
+Mongoose is a third-party package that builds upon the official MongoDB driver, but it makes accessing MongoDB much easier and more convenient. Mongoose use schemas that mongodb does not really use, so we can define how our data should look like and that allows us to conveniently store and fetch data.
