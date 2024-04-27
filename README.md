@@ -1,6 +1,6 @@
-# ToDo_List-Version2
+# Task Master
 
-ToDo List with Database Connectivity using MongoDB
+Task Master with Database Connectivity using MongoDB
 
 ---
 
